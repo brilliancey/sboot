@@ -1,0 +1,7 @@
+package com.gome.sample.web;
+
+@RestController
+@RequestMapping(value='/sample')
+public class HelloController {
+
+}
